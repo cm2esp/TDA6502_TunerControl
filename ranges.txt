@@ -1,0 +1,11 @@
+Frequency Range depending of +BT Voltage
+
+With +BT=5V
+======
+UHF: 370-500 MHz
+VHF LOW: 52-78 MHz
+VHF HIGH: 132-195 MHz
+
+With +BT=33V
+======
+52-825 MHz
